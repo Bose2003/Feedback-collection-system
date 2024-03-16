@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "2fd0",
+      "name": "Rohan",
+      "email": "rohan@gamil.com",
+      "pass": "rohan"
+    },
+    {
+      "id": "416c",
+      "name": "bose",
+      "email": "21cs021@psr.edu.in",
+      "pass": "Bose2512@@"
+    },
+    {
+      "id": "cd19",
+      "name": "21",
+      "email": "123@gmail.com",
+      "pass": "1234"
+    },
+    {
+      "id": "ea28",
+      "name": "21",
+      "email": "admin@psr.edu.in",
+      "pass": "Bose"
+    },
+    {
+      "id": "d629",
+      "name": "bose",
+      "email": "admin@psr.edu.in",
+      "pass": "Bose2512@@"
+    },
+    {
+      "id": "9c98",
+      "name": "admin",
+      "email": "21cs021@psr.edu.in",
+      "pass": "123"
+    },
+    {
+      "id": "4e43",
+      "name": "admin",
+      "email": "21cs021@psr.edu.in",
+      "pass": "1234"
+    },
+    {
+      "id": "779d",
+      "name": "1",
+      "email": "12@gmail.com",
+      "pass": "1234"
+    },
+    {
+      "id": "49dc",
+      "name": "admin",
+      "email": "123@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "5ff3",
+      "name": "kk",
+      "email": "kk@gmail.com",
+      "pass": "123"
+    },
+    {
+      "id": "2b27",
+      "name": "1",
+      "email": "1@gmail.com",
+      "pass": "123"
+    }
+  ],
+  "students": [
+    {
+      "id": "ab08"
+    },
+    {
+      "id": "99a9",
+      "image": "12",
+      "name": "123",
+      "ph": "68",
+      "feedback": "good"
+    },
+    {
+      "id": "403b",
+      "image": "12",
+      "name": "12",
+      "ph": "12",
+      "feedback": "12"
+    },
+    {
+      "id": "3d4f",
+      "image": "11",
+      "name": "1",
+      "ph": "1",
+      "feedback": "1"
+    }
+  ]
+}
