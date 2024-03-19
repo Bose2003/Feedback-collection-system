@@ -1,0 +1,47 @@
+
+.Service {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 0 20px;
+    animation: fadeIn 0.5s ease forwards;
+}
+  
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(-20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .Service h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .Service p {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .Service ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .Service li {
+    font-size: 1.1rem;
+    margin-bottom: 10px;
+  }
+  
+  .Service li:before {
+    content: "•";
+    color: #007bff;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+  
