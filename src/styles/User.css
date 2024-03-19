@@ -1,0 +1,19 @@
+.user-container {
+    /* Existing styles from previous example (optional) */
+  }
+  
+  table {
+    border-collapse: collapse; /* Remove double borders between cells */
+    width: 100%; /* Adjust width as needed */
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd; /* Add table borders */
+    text-align: left; /* Align content to the left */
+  }
+  
+  th {
+    background-color: #f2f2f2; /* Light background color for headers */
+    font-weight: bold;
+  }
